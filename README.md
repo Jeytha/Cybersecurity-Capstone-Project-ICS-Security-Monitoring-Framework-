@@ -1,4 +1,5 @@
-# ICS Cyber Range  
+# ICS Security
+
 ## Behavior-Based Telemetry Analytics & Real-Time ICS Threat Detection
 
 > Industrial Control System (ICS) Cybersecurity Research Platform focused on Modbus TCP threat detection, telemetry analytics, SIEM correlation, heatmap visualization, and CHAZOP-based cyber-physical analysis.
