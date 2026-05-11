@@ -445,8 +445,7 @@ This project is based on:
 If referencing this project:
 
 ```text
-Behavior-Based Telemetry Analytics and Heatmap-Driven Detection
-in the NYMEGA ICS Environment
+Behavior-Based Telemetry Analytics and Heatmap-Driven Detection in the ICS Environment
 CYB-691 Cybersecurity Capstone Project
 Pace University
 2026
